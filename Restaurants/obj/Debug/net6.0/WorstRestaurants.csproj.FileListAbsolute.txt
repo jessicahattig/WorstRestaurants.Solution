@@ -1,0 +1,6 @@
+/Users/jessicahattig/Desktop/Epicodus-Part-time/Week-19-20/WorstRestaurants.Solution/Restaurants/obj/Debug/net6.0/WorstRestaurants.csproj.AssemblyReference.cache
+/Users/jessicahattig/Desktop/Epicodus-Part-time/Week-19-20/WorstRestaurants.Solution/Restaurants/obj/Debug/net6.0/WorstRestaurants.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jessicahattig/Desktop/Epicodus-Part-time/Week-19-20/WorstRestaurants.Solution/Restaurants/obj/Debug/net6.0/WorstRestaurants.AssemblyInfoInputs.cache
+/Users/jessicahattig/Desktop/Epicodus-Part-time/Week-19-20/WorstRestaurants.Solution/Restaurants/obj/Debug/net6.0/WorstRestaurants.AssemblyInfo.cs
+/Users/jessicahattig/Desktop/Epicodus-Part-time/Week-19-20/WorstRestaurants.Solution/Restaurants/obj/Debug/net6.0/WorstRestaurants.csproj.CoreCompileInputs.cache
+/Users/jessicahattig/Desktop/Epicodus-Part-time/Week-19-20/WorstRestaurants.Solution/Restaurants/obj/Debug/net6.0/WorstRestaurants.MvcApplicationPartsAssemblyInfo.cache

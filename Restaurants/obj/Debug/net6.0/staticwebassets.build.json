@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "RIOjoWUueH30U7eOA1yptGxjhyB5UpPq7w+ddKzQfWo=",
+  "Source": "Restaurants",
+  "BasePath": "_content/Restaurants",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Restaurants/wwwroot",
+      "Source": "Restaurants",
+      "ContentRoot": "/Users/jessicahattig/Desktop/Epicodus-Part-time/Week-19-20/WorstRestaurants.Solution/Restaurants/wwwroot/",
+      "BasePath": "_content/Restaurants",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
